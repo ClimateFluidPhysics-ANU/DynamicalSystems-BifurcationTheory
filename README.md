@@ -6,6 +6,12 @@
 
 This repository will contain materials used in the 'mini' course "Basics of Dynamical Systems and Bifurcation Theory" which is to be held during January 20th-28th in the Research School of Earth Sciences, Australian National University.
 
+### Workshops
+
+[Workshop 1](https://nbviewer.jupyter.org/format/slides/github/ClimateFluidPhysics-ANU/DynamicalSystems-BifurcationTheory/blob/master/workshops/Workshop-1.ipynb#/)
+
+[Workshop 2](https://nbviewer.jupyter.org/format/slides/github/ClimateFluidPhysics-ANU/DynamicalSystems-BifurcationTheory/blob/master/workshops/Workshop-2.ipynb#/)
+
 
 ### Bibliography
 - An excellent reference is [Strogatz's](http://www.staff.science.uu.nl/~dijks101/) book
