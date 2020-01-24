@@ -10,7 +10,7 @@ This repository will contain materials used in the 'mini' course "Basics of Dyna
 
 - Lecture 1: [Slides](https://nbviewer.jupyter.org/github/ClimateFluidPhysics-ANU/DynamicalSystems-BifurcationTheory/blob/master/lectures/lecture1-slides.pdf), [Notes](https://nbviewer.jupyter.org/github/ClimateFluidPhysics-ANU/DynamicalSystems-BifurcationTheory/blob/master/lectures/lecture1-notes.pdf)
 
-- Lecture 2
+- Lecture 2: [Slides](https://nbviewer.jupyter.org/github/ClimateFluidPhysics-ANU/DynamicalSystems-BifurcationTheory/blob/master/lectures/lecture2-slides.pdf), [Notes](https://nbviewer.jupyter.org/github/ClimateFluidPhysics-ANU/DynamicalSystems-BifurcationTheory/blob/master/lectures/lecture2-notes.pdf)
 
 - Lecture 3
 
