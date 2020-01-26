@@ -18,9 +18,9 @@ This repository will contain materials used in the 'mini' course "Basics of Dyna
 
 - Workshop 1: [Dynamical Systems: Basic concepts and numerical integration](https://nbviewer.jupyter.org/format/slides/github/ClimateFluidPhysics-ANU/DynamicalSystems-BifurcationTheory/blob/master/workshops/Workshop-1.ipynb?flush_cache=true#)
 
-- Workshop 2 [draft]: [Dynamical Systems: Attractors and Stability](https://nbviewer.jupyter.org/format/slides/github/ClimateFluidPhysics-ANU/DynamicalSystems-BifurcationTheory/blob/master/workshops/Workshop-2.ipynb?flush_cache=true#)
+- Workshop 2: [Dynamical Systems: Attractors and Stability](https://nbviewer.jupyter.org/format/slides/github/ClimateFluidPhysics-ANU/DynamicalSystems-BifurcationTheory/blob/master/workshops/Workshop-2.ipynb?flush_cache=true#)
 
-- Workshop 3 [draft]: [Bifurcations](https://nbviewer.jupyter.org/format/slides/github/ClimateFluidPhysics-ANU/DynamicalSystems-BifurcationTheory/blob/master/workshops/Workshop-3.ipynb?flush_cache=true#)
+- Workshop 3: [Bifurcations](https://nbviewer.jupyter.org/format/slides/github/ClimateFluidPhysics-ANU/DynamicalSystems-BifurcationTheory/blob/master/workshops/Workshop-3.ipynb?flush_cache=true#)
 
 
 ### Bibliography
