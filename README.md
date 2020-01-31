@@ -6,7 +6,7 @@
 
 This repository will contain materials used in the 'mini' course "Basics of Dynamical Systems and Bifurcation Theory" which is to be held during January 20th-28th in the Research School of Earth Sciences, Australian National University.
 
-### Lectures
+### Lectures (Henk)
 
 - Lecture 1: Basics of Dynamical Systems [Slides](https://nbviewer.jupyter.org/github/ClimateFluidPhysics-ANU/DynamicalSystems-BifurcationTheory/blob/master/lectures/lecture1-slides.pdf), [Notes](https://nbviewer.jupyter.org/github/ClimateFluidPhysics-ANU/DynamicalSystems-BifurcationTheory/blob/master/lectures/lecture1-notes.pdf)
 
@@ -14,7 +14,7 @@ This repository will contain materials used in the 'mini' course "Basics of Dyna
 
 - Lecture 3: Computing Bifurcation Diagrams [Slides](https://nbviewer.jupyter.org/github/ClimateFluidPhysics-ANU/DynamicalSystems-BifurcationTheory/blob/master/lectures/lecture3-slides.pdf), [Notes](https://nbviewer.jupyter.org/github/ClimateFluidPhysics-ANU/DynamicalSystems-BifurcationTheory/blob/master/lectures/lecture3-notes.pdf), [AMOC bifurcation notebook](https://nbviewer.jupyter.org/github/ClimateFluidPhysics-ANU/DynamicalSystems-BifurcationTheory/blob/master/lectures/AMOC_bifurcation.ipynb), [ENSO bifurcation notebook](https://nbviewer.jupyter.org/github/ClimateFluidPhysics-ANU/DynamicalSystems-BifurcationTheory/blob/master/lectures/ENSO_bifurcation.ipynb)
 
-### Workshops
+### Workshops (Navid)
 
 - Workshop 1: [Dynamical Systems: Basic concepts, attractors, stability, and numerical integration](https://nbviewer.jupyter.org/format/slides/github/ClimateFluidPhysics-ANU/DynamicalSystems-BifurcationTheory/blob/master/workshops/Workshop-1.ipynb?flush_cache=true#)
 
