@@ -4,7 +4,7 @@
 
 
 
-This repository will contain materials used in the 'mini' course "Basics of Dynamical Systems and Bifurcation Theory" which is to be held during January 20th-28th in the Research School of Earth Sciences, Australian National University.
+This repository contains materials used in the 'mini' course "Basics of Dynamical Systems and Bifurcation Theory" which was held between 20th and 31st of January, 2020 at the Research School of Earth Sciences, Australian National University.
 
 ### Lectures (Henk)
 
@@ -27,4 +27,4 @@ This repository will contain materials used in the 'mini' course "Basics of Dyna
 - An excellent reference is [Strogatz's](http://www.staff.science.uu.nl/~dijks101/) book
 > Strogatz, Steven H. Nonlinear dynamics and chaos: with applications to physics, biology, chemistry, and engineering. CRC Press, 2018.
 
-For those blessed with ANU credentials, the book can be accessed through the [ANU Library](https://library.anu.edu.au/record=b6203090).
+Those blessed with ANU credentials can access the book through the [ANU Library](https://library.anu.edu.au/record=b6203090).
